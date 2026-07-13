@@ -94,6 +94,7 @@ A curated list of **awesome tools, libraries, and resources** related to program
 |----------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)      | [StructuralCodes](https://fib-international.github.io/structuralcodes/)                  | StructuralCodes is an open-source Python library for structural engineering calculations. |
 | ![Web](https://img.shields.io/badge/-Web-lightgrey?logo=html5&logoColor=white) | [Concrete Calculator Hub](https://concreteestimatorhub.com/) | Free browser-based concrete volume, bag coverage, footing, slab, and ready-mix cost calculators for structural and construction planning. |
+| ![Web](https://img.shields.io/badge/-Web-lightgrey?logo=html5&logoColor=white) | [BuildRefs](https://buildrefs.com) | Free browser-based steel section-property tables (AISC and international shapes) plus 239+ structural and construction calculators; each cites the standard it implements. |
 
 ---
 
